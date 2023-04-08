@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+    font-style: italic;
+    font-family: "cursive";
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+
+.note
+{
+font-size: 15px;
+color: black;
+}
+
+.song_name
+{
+    font-style: italic;
+    font-family: "cursive";
+    font-size: 20px;
+}
+
+canvas
+{
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
